@@ -1,0 +1,5 @@
+scenario,shared_nmse_db,oracle_nmse_db,headroom_db
+urban_slow,-16.076,-17.753,1.677
+highway,-18.227,-20.586,2.359
+rural,-19.254,-20.822,1.567
+tunnel,-14.512,-17.238,2.727

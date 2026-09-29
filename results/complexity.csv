@@ -1,0 +1,6 @@
+method,params,payload_MB_per_round,ms_per_estimate
+CNN + FedAvg,76226,0.30,0.616
+LAMP + FedAvg,78352,0.31,0.054
+DUN + FedAvg,328720,1.31,0.255
+PF-DUN-Hyper,876432,3.51,0.263
+PF-DUN-Hyper-RC,421776,1.69,0.254

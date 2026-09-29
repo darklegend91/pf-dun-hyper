@@ -1,0 +1,10 @@
+# Python virtual environment (recreate with: python3.11 -m venv .venv)
+.venv/
+__pycache__/
+*.py[cod]
+
+# Run logs (regenerated on each run)
+*.log
+
+# OS cruft
+.DS_Store

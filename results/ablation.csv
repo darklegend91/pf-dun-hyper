@@ -1,0 +1,6 @@
+variant,params,nmse_db
+OAMP unfolding only (no hyper),328720,-4.750
++ Doppler hypernetwork,876432,-15.925
+"+ hypernet, plain FedAvg agg",876432,-15.898
++ hypernet + temporal core,1107216,-15.921
++ hypernet + row compression,421776,-16.110

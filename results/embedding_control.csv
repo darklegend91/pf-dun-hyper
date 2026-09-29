@@ -1,0 +1,6 @@
+condition,nmse_db
+correct s,-15.752
+MISMATCHED s (other client),-15.713
+shuffled s (within client),-15.730
+zeroed s,-15.205
+random s,-15.281
